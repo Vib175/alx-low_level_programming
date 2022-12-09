@@ -1,3 +1,2 @@
-
 #!/bin/baah
 gcc -S $CFILE
